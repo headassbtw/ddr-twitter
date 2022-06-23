@@ -14,3 +14,7 @@
 // @updateURL     https://github.com/headassbtw/twitter/raw/master/userscript.js
 // @downloadURL   https://github.com/headassbtw/twitter/raw/master/userscript.js
 // ==/UserScript==
+
+(function() {
+    'use strict';
+})();
