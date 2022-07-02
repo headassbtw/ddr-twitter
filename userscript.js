@@ -10,8 +10,8 @@
 // @exclude       https://twitter.com/*/privacy
 // @exclude       https://twitter.com/*/tos
 // @exclude       https://twitter.com/account/access
-// @updateURL     https://github.com/headassbtw/twitter/raw/master/userscript.js
-// @downloadURL   https://github.com/headassbtw/twitter/raw/master/userscript.js
+// @updateURL     https://raw.githubusercontent.com/headassbtw/ddr-twitter/main/userscript.js
+// @downloadURL   https://raw.githubusercontent.com/headassbtw/ddr-twitter/main/userscript.js
 // ==/UserScript==
 
 (function() {
