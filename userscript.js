@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          DDR Twitter
-// @version       0.0.2
+// @version       0.0.3
 // @description   Replaces icons with DDR arrows
 // @author        headassbtw
 // @license       MIT
