@@ -5,6 +5,7 @@
 // @author        headassbtw
 // @license       MIT
 // @match         https://twitter.com/*
+// @match         https://x.com/*
 // @exclude       https://twitter.com/i/cards/*
 // @exclude       https://twitter.com/i/release_notes
 // @exclude       https://twitter.com/*/privacy
